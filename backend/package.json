@@ -1,0 +1,31 @@
+{
+  "name": "dispone",
+  "version": "0.0.0",
+  "description": "c'est la backend de dispone qui permet de gerer l'authentification , la securisation et gestion des utilisateurs et des donnees utilisateurs",
+  "keywords": [
+    "plannification",
+    "projet",
+    "charte",
+    "graphique"
+  ],
+  "homepage": "https://github.com/moise2007/todo_tech#readme",
+  "bugs": {
+    "url": "https://github.com/moise2007/todo_tech/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moise2007/todo_tech.git"
+  },
+  "license": "ISC",
+  "author": "artifex",
+  "type": "ESM",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0",
+    "nodemon": "^1.14.10"
+  }
+}
